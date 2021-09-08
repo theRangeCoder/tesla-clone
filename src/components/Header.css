@@ -28,7 +28,7 @@
 
 .header_right {
 	display: flex;
-	justify-content: flex-end;
+	justify-content: right;
 }
 
 .header_right > p {
