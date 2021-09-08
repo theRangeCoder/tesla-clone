@@ -23,6 +23,7 @@ const Header = () => {
 					<p>Shop</p>
 					<p>Account</p>			
 				</div>
+				
 		</div>
 	)
 }
