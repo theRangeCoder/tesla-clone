@@ -27,7 +27,8 @@ function App() {
         	rightBtn='EXISTING INVENTORY'
         	leftBtnUrl=''
         	rightBtnUrl=''
-        	twoBtns='true'  
+        	twoBtns='true' 
+        	first='true' 
         />
         
         <Body
@@ -94,9 +95,7 @@ function App() {
         	title='Accessories'
         	bcgImg={Accessories}
         	leftBtn='SHOP NOW'
-        	rightBtn='LEARN MORE'
         	leftBtnUrl=''
-        	rightBtnUrl='' 
         />
       </div>
       
