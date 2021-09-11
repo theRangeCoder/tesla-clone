@@ -9,6 +9,7 @@
 	/* vertically at the centre */
 	align-items: center;
 	opacity: 0.85;
+	border-radius: 20px;
 }
 
 .button > a {

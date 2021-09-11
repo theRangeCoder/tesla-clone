@@ -1,6 +1,7 @@
 import React from 'react';
 import './Button.css';
 
+// For each button
 const Button = (props) => {
 	return (
 		<div className={`button ${props.imp === 'secondary' ? 'button__white' : ''}`}>

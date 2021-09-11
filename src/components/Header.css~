@@ -23,15 +23,17 @@
 }
 
 .header_center > p {
-	margin: 9px;
+	margin: 8px;
 }
 
 .header_right {
 	display: flex;
-	justify-content: flex-end;
+	justify-content: center;
+	align-items: center;
+	margin-right: 35px;
 }
 
 .header_right > p {
-	margin: 9px;
-	width: auto;
+	margin: 8px;
+	width: 100%;
 }

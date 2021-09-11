@@ -1,0 +1,52 @@
+.body {
+	height: 100%;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+	justify-content: center; 
+	scroll-snap-align: start;
+}
+
+.body_container {
+	/* Getting things in the center */
+	width: 250px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.body_upper {
+	margin-top: 40%;
+	display: flex;
+	font-size: 30px;
+	align-items: center;
+	flex-direction: column;
+	flex: 1;
+	color: #393c41;
+}
+
+.description {
+	font-weight: 190;
+	font-size: 13px;
+}
+
+.body_lower {
+	margin-bottom: 26%;
+	display: flex;
+	flex-direction: column;
+}
+
+.buttons {
+	display: flex;
+}
+
+.expand {
+	color: white;
+	width: 100%;
+	margin-top: 3.5%;
+	justify-content: center;
+	display: flex;
+}
+

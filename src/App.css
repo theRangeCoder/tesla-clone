@@ -1,0 +1,6 @@
+.app_body_container {
+	/* only mandatory for the y-axis */
+	scroll-snap-type: y mandatory;
+	overflow: auto;
+	height: 100vh;
+}

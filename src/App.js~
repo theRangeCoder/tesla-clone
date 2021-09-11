@@ -94,9 +94,7 @@ function App() {
         	title='Accessories'
         	bcgImg={Accessories}
         	leftBtn='SHOP NOW'
-        	rightBtn='LEARN MORE'
         	leftBtnUrl=''
-        	rightBtnUrl='' 
         />
       </div>
       
