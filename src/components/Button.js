@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Button = () => {
+const Button = (props) => {
 	return (
-		<div className="button">
-			
+		<div className={`button ${props.imp === 'secondary' ? 'button__white' : ''}`}>
+			<a href={props.Url}>{props.text}</a>
 		</div>			
 	)
 }
