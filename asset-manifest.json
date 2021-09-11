@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/tesla-clone/static/css/main.7e9ec8f6.chunk.css",
+    "main.js": "/tesla-clone/static/js/main.4618de6f.chunk.js",
+    "main.js.map": "/tesla-clone/static/js/main.4618de6f.chunk.js.map",
+    "runtime-main.js": "/tesla-clone/static/js/runtime-main.5f37bd17.js",
+    "runtime-main.js.map": "/tesla-clone/static/js/runtime-main.5f37bd17.js.map",
+    "static/js/2.66b8d6b9.chunk.js": "/tesla-clone/static/js/2.66b8d6b9.chunk.js",
+    "static/js/2.66b8d6b9.chunk.js.map": "/tesla-clone/static/js/2.66b8d6b9.chunk.js.map",
+    "static/js/3.c6b4d4dc.chunk.js": "/tesla-clone/static/js/3.c6b4d4dc.chunk.js",
+    "static/js/3.c6b4d4dc.chunk.js.map": "/tesla-clone/static/js/3.c6b4d4dc.chunk.js.map",
+    "index.html": "/tesla-clone/index.html",
+    "static/css/main.7e9ec8f6.chunk.css.map": "/tesla-clone/static/css/main.7e9ec8f6.chunk.css.map",
+    "static/js/2.66b8d6b9.chunk.js.LICENSE.txt": "/tesla-clone/static/js/2.66b8d6b9.chunk.js.LICENSE.txt",
+    "static/media/accessories.027ada94.jpg": "/tesla-clone/static/media/accessories.027ada94.jpg",
+    "static/media/index.css": "/tesla-clone/static/media/iCiel-Medium.b23bb62d.ttf",
+    "static/media/model_3.30651f79.jpeg": "/tesla-clone/static/media/model_3.30651f79.jpeg",
+    "static/media/model_s.e3d22a07.jpeg": "/tesla-clone/static/media/model_s.e3d22a07.jpeg",
+    "static/media/model_x.83417303.jpeg": "/tesla-clone/static/media/model_x.83417303.jpeg",
+    "static/media/model_y.30acb76a.jpeg": "/tesla-clone/static/media/model_y.30acb76a.jpeg",
+    "static/media/solar_panels.d7d441d7.jpeg": "/tesla-clone/static/media/solar_panels.d7d441d7.jpeg",
+    "static/media/solar_roof.9eb2e602.jpeg": "/tesla-clone/static/media/solar_roof.9eb2e602.jpeg",
+    "static/media/tesla_logo_small.a7b59bc6.svg": "/tesla-clone/static/media/tesla_logo_small.a7b59bc6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f37bd17.js",
+    "static/js/2.66b8d6b9.chunk.js",
+    "static/css/main.7e9ec8f6.chunk.css",
+    "static/js/main.4618de6f.chunk.js"
+  ]
+}
