@@ -1,70 +1,118 @@
-# Getting Started with Create React App
+  <h3 align="center">Tesla Homepage Clone</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <p align="center">
+    A clone of the Tesla homepage!
+    <br />
+    <a href="https://therangecoder.github.io/tesla-clone/"><strong>View Demo »</strong></a>
+    <br />
+  </p>
+</p>
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `yarn start`
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+      	<li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<div style="display: flex"><img src="./Documentation/img/tc_homepage_initial.png" /></div>
 
-### `yarn build`
+This project has been an attempt of mine, to use my React.js and Material-UI skills, to build a clone of the Tesla homepage.<br/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Built With
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+These are the technologies that I used to build the clone:
+* React.js
+* Material-UI
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<!-- GETTING STARTED -->
+## Getting Started
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To get a local copy of the Tesla clone, up and running on your browser, follow these steps.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Prerequisites
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+In order to be able to run the clone successfully on the browser of your system, the following needs to be installed on your system:
 
-## Learn More
+1. An adequate version of <a href='https://nodejs.org/en/'>`Node.js`</a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Installation
 
-### Code Splitting
+1. Fork this repository
+<div style="display: flex"><img src="./Documentation/img/fork.png" /></div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+2. Clone the repository
+   ```sh
+   git clone https://github.com/[your_username]/tesla-clone.git
+   ```
 
-### Analyzing the Bundle Size
+3. Navigate into the root directory
+   ```sh
+   cd tesla-clone
+   ```
+   
+4. Install the dependencies, needed for the project
+   ```sh
+   npm install
+   ```
+   
+5. Run the clone on your browser
+   ```sh
+   npm start
+   ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+<!-- USAGE EXAMPLES -->
+## Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Once you have successfully installed the required dependencies and started the clone on your browser (it usually runs on port 3000 of the local host, by default), have fun going through it!
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<!-- LICENSE -->
+## License
 
-### Deployment
+The README template, used for this project, was distributed under the MIT License. See `LICENSE` for more information.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `yarn build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- CONTACT -->
+## Contact
+
+#### Shuvadarshan Bhual
+* Drop me an [email](mailto:sbhual1998@gmail.com) 
+* Follow me on [Twitter](https://twitter.com/theRangeCoder)
+* Let us connect on [LinkedIn](https://www.linkedin.com/in/shuvadarshan-bhual)
+
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* The background images, logo and font were obtained from [this link](https://drive.google.com/drive/folders/1Myd9OK3EIm9EXgP1AAch_YEwF2-ngPqH), which can be found in the description of [this video](https://www.youtube.com/watch?v=Wn8Q8VbZIMQ)
+* [Othneil Drew](https://www.othneildrew.com) for the [README template](https://github.com/othneildrew/Best-README-Template)
