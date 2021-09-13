@@ -4,9 +4,7 @@ import './Button.css';
 // For each button
 const Button = (props) => {
 	return (
-		<div className={`button ${props.imp === 'secondary' ? 'button__white' : ''}`}>
-			<a href={props.Url}>{props.text}</a>
-		</div>			
+		<a className={`button ${props.imp === 'secondary' ? 'button__white' : ''}`} href={props.Url}>{props.text}</a>	
 	)
 }
 
